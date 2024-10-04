@@ -14,5 +14,4 @@
 -->
 
 My name is Diana. Welcome to my space!
-
-
+I am a senior at Meredith College in Raleigh, NC and a double major in Computer Science and Spanish. I aim to combine these two majors into my career.
