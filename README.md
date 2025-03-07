@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **d-medm/d-medm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +10,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-My name is Diana. Welcome to my space!
-I am a senior at Meredith College in Raleigh, NC and a double major in Computer Science and Spanish. I aim to combine these two majors into my career.
