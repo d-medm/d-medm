@@ -32,4 +32,4 @@ When I'm not coding, you can find me experimenting with new technologies, listen
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/dianamedinamoreno/" target="_blank">Diana Moreno</a> Email: johndoe@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/dianamedinamoreno/" target="_blank">Diana Moreno</a></p>
