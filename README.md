@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Diana, a passionate software and full-stack engineer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
+Hi, I'm Diana, a passionate full-stack engineer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
 
 When I'm not coding, you can find me experimenting with new technologies, listening to music, playing video games or spending time with family.
 
@@ -29,6 +29,16 @@ When I'm not coding, you can find me experimenting with new technologies, listen
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+
+## Projects
+<div align="center">
+
+|  **Project** |          **Description**          |
+| :------------: | :---------------------------------: |
+| Portfolio  |       _My Personal Portfolio_       |
+| Movify |   _Movie/Video Game Suggestion_    |
+
+</div>
 
 ## Connect with me
 
