@@ -36,6 +36,7 @@ When I'm not coding, you can find me experimenting with new technologies, listen
 |  **Project** |          **Description**          |
 | :------------: | :---------------------------------: |
 | Portfolio  |       _My Personal Portfolio_       |
+| BSKY |   _BlueSky Feed Analysis_    |
 | Movify |   _Movie/Video Game Suggestion_    |
 
 </div>
