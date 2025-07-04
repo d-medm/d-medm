@@ -1,4 +1,4 @@
-## About Me
+ ## About Me
 
 Hi, I'm Diana, a passionate full-stack engineer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
 
@@ -37,7 +37,7 @@ When I'm not coding, you can find me experimenting with new technologies, listen
 | :------------: | :---------------------------------: |
 | Portfolio  |       _My Personal Portfolio_       |
 | BSKY |   _BlueSky Feed Analysis_    |
-| Movify |   _Movie/Video Game Suggestion_    |
+| API Server |   _Custom API server to store video game collection_    |
 
 </div>
 
